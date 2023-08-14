@@ -5,8 +5,7 @@ Welcome to my personal portfolio website, showcasing my front-end skills and pro
 ## Features
     Responsive design that adapts to various screen sizes.
     Project showcase with detailed descriptions.
-    Contact information for easy communication.
-    Smooth animations and transitions for enhanced user experience.
+    Contact information for easy communication. 
 
 ## Live Demo
 
