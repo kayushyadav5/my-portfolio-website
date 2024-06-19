@@ -10,4 +10,4 @@ Welcome to my personal portfolio website, showcasing my front-end skills and pro
 ## Live Demo
 
 Check out the live demo of my portfolio website here.
-https://project-by-k-ayush-yadav.on.drv.tw/www.myportfolio.com/
+https://kayushyadav5.github.io/my-portfolio-website/
